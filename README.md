@@ -4,7 +4,7 @@ Implementation of home surveillance including human detection and automated app 
 Designed a home surveillance system using Raspberry Pi and Open CV library. The system performs human detection and sends an alert to 
 an android application installed on the user's phone. Also, the video is recorded and uploaded on the cloud database.
 
-Implementation details of Project (Image processing part):
+# Implementation details of Project (Image processing part):
 
 The following is the sequence of steps implemented in the python code to detect the presence of human and start recording video:
 
