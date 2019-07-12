@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "video-surv",
+  "private_key_id": "3155e481cfee6f1005e74a3a1c13fba7acde551a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC9mB2/BqVWPr29\nB5a3/O1BVRp+Mx7vUlQ5uPWqTiErQ5aXDZdYKE7huf8phcibSm67VlpefeNeKmoD\nkcjLz3/JzZWjvO7KfaHDBYp2eP/e4Pe1gjxU8vAhAAFDHLSwjJK0iWaMdMS0jOrF\nEhRYhSRivZiAaTGSUB/VFMN25XfeimXjzpQAvM6HGw9vZHypoLZpAAB+yGLNPlSx\nEgypVePOf0UZqQLD1KqMWaXzOcy411H08cH+L/tBJcLNxcubY9WKGEZ4vHEOw3Nz\n5Cc+ar7TCR1/yu80SdOipPevPvKeN5ljlGiLNhn2Gs7055heweFYOTDQy3w9N15y\nK4W+75E/AgMBAAECggEAB0jO68X/mD6034xpGAyZuQbiC7M/HwbUwZr/pVl3IMhq\nAse85uA1l6qjyR6gxIapln0M39CKadXLWPPC+UGxsTk65J2ftxv4mRufZEnl2tRd\n8BVe6AyleT8czU1PC/F6uYEF9aOO4zj+1C+LpJMJANoz/8sK4oo9jtxLXkgWwPAT\nWQmXTbJU9LM1+woq5vGxyOqow0pIukOK7EMCYinFVO9FyDWhsIpDdHTKKhOn3qVA\nO8X775aXmeY8QmFKB4iKnXr64xYgrUkXfNcOkptB0OMvDt+yfnq0MPNpqh/EWyt+\nmC7DJa1hY5DKWM45L9/D8h7WU/WLHbpPGT67DljBEQKBgQDviIV9uZhk51OZUuvY\nvIYxwV1mH9RNXaI6zgDC746gNZ4NEJEiJgAqzyyf6RyjCooK4ZAVN/c07i1LlhCE\n74jsmYcFZLhNBHlFMdnSJXmLUrW8iaXKtTagExTUT/wDSWsC29tzR2DvjMFr7mnV\niKmv1ZDCD68vckVgR1D6DNfBywKBgQDKoLsftCraXuXkf0cIQtnIgcT/1zjPOrcG\nLusy1TaKSVBe7OOhXJBhxoEkP5wMxsqlhdZrV/XBmO9MqGbzOE1fe3yuDzx9KThp\nb4hB0JJnVlY7IplPyfvz86UE6zbjpVXdHt3Ue7JJbP2w8bFov6F2p/390mg9AbN8\nE+TinSsv3QKBgA4cl+i5R24iZr1wsi5ZpPpHbw42L9bC/mzCeC8D1/4+SmpwoGxH\nmtjqzbE6FZLRayKK+WcWnfzDT23VkHGUfxeZT+gUb/sxmUdnUXLc/FUl8UkDPv47\nQNWbai277Jfw+ln3w+z9totGWprWN+v5mi2ewmF8dRCxhb7PVMj2eruTAoGAS6zT\ntfd3ua6PdVMDmFY/N98fT911Xg+zox+Kv6VZhTP0TD90lCMZ2SpluL/469yiekcN\n2XE0W2Vemeaa7GMuomZgHjGaibQHWXlKDipzQxy/f75gO6hX7Lgl/TxLd6Gb+8U3\nW9AGud12scrSUyieiM4c0drvCznDaqeTZ/8CzhECgYBaGAD1u6Xze4ZVDq/P4ez4\n8KdB+6UfvDOcbnekvNEl9uSOBFyutf9sKBpTgMkUFvf8fX02z6myQyw+EpeYDhsn\nLQPfnKZYLQxiiFAIKVhB14kaY+3YXHwWoTfSuHYKNnn+URuNAWjFtFgYI4Eo4m21\nS+tHAt4CvT19kP0/vubGHg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "video-pro-data@video-surv.iam.gserviceaccount.com",
+  "client_id": "111329439271518632718",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/video-pro-data%40video-surv.iam.gserviceaccount.com"
+}
